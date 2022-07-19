@@ -24,7 +24,7 @@ class SecondActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
 
         super.onCreate(savedInstanceState)
-                    FirebaseCrashlytics.getInstance().sendUnsentReports();
+                       FirebaseCrashlytics.getInstance().sendUnsentReports();
                       throw ReflectiveOperationException(localClassName)
         setContent {
             GitHooksTheme {
