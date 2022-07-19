@@ -25,7 +25,7 @@ class SecondActivity : ComponentActivity() {
 
         super.onCreate(savedInstanceState)
         FirebaseCrashlytics.getInstance().sendUnsentReports();
-             throw ReflectiveOperationException(localClassName)
+              throw ReflectiveOperationException(localClassName)
         setContent {
             GitHooksTheme {
                 // A surface container using the 'background' color from the theme
