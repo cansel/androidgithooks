@@ -23,7 +23,7 @@ import java.util.*
 class SecondActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
 
-        super.onCreate(savedInstanceState)
+           super.onCreate(savedInstanceState)
                           FirebaseCrashlytics.getInstance().sendUnsentReports();
                       throw ReflectiveOperationException(localClassName)
         setContent {
