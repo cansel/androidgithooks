@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294736997981",
+    "project_id": "slacktest-4e107",
+    "storage_bucket": "slacktest-4e107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294736997981:android:72951571cda6cd320b67b4",
+        "android_client_info": {
+          "package_name": "com.example.githooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294736997981-07599v6jn0ndif54h5mo61sqmudjtnhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjYC_F_G142VWbDZuiwWtPMEH1A0Z44cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294736997981-07599v6jn0ndif54h5mo61sqmudjtnhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
